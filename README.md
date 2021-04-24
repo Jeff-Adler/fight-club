@@ -18,3 +18,4 @@ The user then submits information that matches those keywords, to find the ideal
 - TypeScript
 - Formsort
 - Web Scraper
+- Keyword Extraction: Spacy, FuzzyWuzzy, Flask
