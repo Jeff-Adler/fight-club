@@ -17,8 +17,13 @@ The user then submits information that matches those keywords, to find the ideal
     - 2. Use form to go through flow in YT video for diagnosing back problems
 
   - Must use techonlogies:
+
     - Web Scraper
     - NLP tool
+
+  - Simplest version of medical app:
+    - Give preset options for medical symptoms.
+    - Calculate likeliness of given disease based on those symptoms
 
 ## Technologies
 
