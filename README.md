@@ -22,8 +22,13 @@ The user then submits information that matches those keywords, to find the ideal
     - NLP tool
 
   - Simplest version of medical app:
+
     - Give preset options for medical symptoms.
     - Calculate likeliness of given disease based on those symptoms
+
+  - Non-medical app:
+    - Video game (with Unity)
+    - WHAT NLP APP??
 
 ## Technologies
 
